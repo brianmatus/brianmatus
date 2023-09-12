@@ -11,7 +11,7 @@
 </p>
 
 
-## <picture><img src = "https://raw.githubusercontent.com/brianmatus/brianmatus/main/about_me.gif" width = 50px></picture>  **About me**
+## <!-- Slow loading, image not showing<picture><img src = "https://raw.githubusercontent.com/brianmatus/brianmatus/main/about_me.gif" width = 50px></picture>-->  **About me**
 
 <!--<picture> <img align="right" src="https://raw.githubusercontent.com/brianmatus/brianmatus/main/coding.gif" width = 250px></picture>-->
 
