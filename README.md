@@ -19,7 +19,7 @@
 
 - Self-taught Developer with pasison of learning 
 - Currently learning Cybersecurity with [TryHackMe](https://tryhackme.com/)
-- I like CTF's and challenges 
+- I like CTFs and challenges 
 - Enjoy playing piano and love videogames 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/matusb42.png" alt="TryHackMe">
