@@ -17,6 +17,7 @@
 
 <br>
 
+- Software Engineer from Universidad de San Carlos de Guatemala
 - Self-taught Developer with pasison of learning 
 - Currently learning Cybersecurity with [TryHackMe](https://tryhackme.com/)
 - I like CTFs and challenges 
